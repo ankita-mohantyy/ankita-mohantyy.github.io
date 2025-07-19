@@ -8,7 +8,7 @@
     }
 
 body {
-    font-family: 'Arial', sans-serif;
+    font-family:'Courier New', Courier, monospace;
     line-height: 1.6;
     color: #FFF;
     overflow-x: hidden;
@@ -131,7 +131,7 @@ nav.scrolled {
 }
 
 .mobile-nav a {
-    color:#44318D;
+    color:#fff;
     text-decoration: none;
     font-size: 2rem;
     font-weight: 500;
@@ -140,7 +140,7 @@ nav.scrolled {
 }
 
 .mobile-nav a:hover {
-    color: #FFF;
+    color: #A978C9;
 }
 
 /* Hero Section */
